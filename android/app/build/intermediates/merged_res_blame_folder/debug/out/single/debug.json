@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Majeed_Mehmood\\.gradle\\daemon\\7.5.1\\com.finalproject.app-main-36:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.finalproject.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
+    }
+]
